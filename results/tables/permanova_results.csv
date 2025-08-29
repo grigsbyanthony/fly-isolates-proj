@@ -1,0 +1,10 @@
+"Test","Factor","Df","SumOfSqs","R2","F","Pr(>F)"
+"Sex Effect","Model",1,0.0888716135919163,0.0425489059681671,0.355518156349843,0.974
+"Sex Effect","Residual",8,1.99982165759126,0.957451094031833,NA,NA
+"Sex Effect","Total",9,2.08869327118317,1,NA,NA
+"Species Effect","Model",4,1.04921911902321,0.502332790313853,1.26171862576261,0.229
+"Species Effect","Residual",5,1.03947415215996,0.497667209686146,NA,NA
+"Species Effect","Total",9,2.08869327118317,1,NA,NA
+"Species * Sex Interaction","Model",9,2.08869327118317,1,NA,NA
+"Species * Sex Interaction","Residual",0,0,0,NA,NA
+"Species * Sex Interaction","Total",9,2.08869327118317,1,NA,NA

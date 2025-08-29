@@ -1,0 +1,11 @@
+SampleID	BarcodeSequence	Species	Sex
+LS_F	AGTAGTTTCCTT	Lucilia sericata	Female
+PR_M	CAGATCCCAACC	Phormia regina	Male
+LS_M	GACCCGTTTCGC	Lucilia sericata	Male
+CVO_F	ATTGCCTTGATT	Calliphora vomitoria	Female
+CVO_M	TTAGGATTCTAT	Calliphora vomitoria	Male
+OND_F	CAGTCTAGTACG	Musca domestica	Female
+CV_F	CATTTACATCAC	Calliphora vicina	Female
+OND_M	GTGGGACTGCGC	Musca domestica	Male
+CV_M	TTCTTAACGCCT	Calliphora vicina	Male
+PR_F	CTCCCGAGCTCC	Phormia regina	Female

@@ -1,0 +1,6 @@
+.DS_Store
+data/sequences/barcodes.fastq.gz
+data/sequences/forward.fastq.gz
+data/sequences/reverse.fastq.gz
+data/multiplexed_data.qza
+data/demux_details.qza
