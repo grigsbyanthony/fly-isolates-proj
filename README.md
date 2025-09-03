@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="meta/core-feats-banner.png" alt="Repository Banner" width="900"/>
+  <img src="meta/core-feats-banner.png" alt="Repository Banner 2" width="700"/>
 </p>
 
 <div align="center">
@@ -23,9 +23,3 @@ Flies were sampled using a [reusable hanging fly trap](https://www.amazon.com/dp
 Trapped flies were rendered unconscious after prolonged refrigeration, which enabled us to identify and organize the individuals caught at the field site. The trap and 50mL falcon tubes were kept on ice to keep the flies inactive. A [digital microscope](https://www.amazon.com/dp/B0BK6Q33KK?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3) was used to screen individuals for identifying features of species and sex, and individuals were pooled in the 50mL falcon tubes based on these characteristics. Once all flies were screened and sorted, they were re-introduced to the refrigerator and kept at 4°C for an additional 24 hours.
 
 Flies were surface-sterilized while pooled by introducing 40mL of 70% ethanol to the falcon tubes and agitating for 2 minutes. After the initial ethanol wash, individuals were removed from the falcon tube and introduced to a sterile petri dish. Once introduced, individuals were rinsed twice using sterile PBS and introduced to 2mL microcentrifuge tubes. Sterile pestles were used to homogenize the surface-sterilized individuals in 250uL of sterile PBS.
-
-### Culturing
-**Round 1:** Male and female representatives of each species were randomly selected (if avaialble) for use in the initial round of culturing.
-
-### Isolating
-### Identification
