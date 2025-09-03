@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Colorado_State_University-Borlee_Lab-1E4D2B" alt="Colorado State University"/>
 </p>
 
-## Overview
-
 ## Methods and Materials
 ### Sampling
 Flies were sampled using a [reusable hanging fly trap](https://www.amazon.com/dp/B088ZPYZSD?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) and naturally acquired rabbit carrion. A [small dog cage](https://www.amazon.com/dp/B000OXAER2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) (18.0"L x 12.0"W x 14.0"H) was used as an anti-scavenger cage to prevent larger animals from interrupting or otherwise interfering with the study being conducted. The rabbit was placed in the dog cage (plastic bottom removed) and the fly trap was assembled with a liquid attractant just above the rabbit using the roof of the cage and zip ties. The trap was left open for 48 hours before being removed from the cage and placed in a gallon-sized Ziploc bag. Flies were then kept in the refrigerator at 4°C for 12 hours before processing.
